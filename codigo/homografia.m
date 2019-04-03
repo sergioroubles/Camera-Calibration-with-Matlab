@@ -3,10 +3,10 @@
 %%%         1. Abre imagen, selecciona puntos [u_i,v_i] para i=1,2,3,4. (funcion: getpts)
 
 %%%         2. Rutina que cree la matriz A a partir de {[u_i,v_i]} y
-%%%         {[X_i,Y_i]} ¿predeterminados? ¿preguntar?
+%%%         {[X_i,Y_i]} Â¿predeterminados? Â¿preguntar?
 
 %%%         3. Creamos el vector u, resolvemos el sistema h=A\u y obtenemos
-%%%         la matriz de la homografía
+%%%         la matriz de la homografÃ­a
 
 %%%         4. Abre imagen, selecciona p1 y p2 a medir la distancia entre ellos
 
