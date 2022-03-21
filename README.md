@@ -1,6 +1,6 @@
 # Camera Calibration with MATLAB
 
-This repository shows a camera calibration with Camera Calibration Toolbox for MATLAB by Jean-Yves Bouguet. It uses a series of photos made of a hand made calibration board.
+This repository shows a smartphone camera calibration with Camera Calibration Toolbox for MATLAB by Jean-Yves Bouguet. It uses a series of photos made of a hand made calibration board.
 
 /codigo/homografia.m
   - Contains the main code and subroutines for the program
